@@ -1,2 +1,2 @@
-# 3MTT_Assiggnment
-My 3MTT assingments 
+# 3MTT_Assignment_Solutions
+My 3MTT assigments solutions.
